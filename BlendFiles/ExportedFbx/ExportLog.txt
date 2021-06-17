@@ -1,0 +1,8 @@
+This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
+
+0 StaticMesh(s) | 1 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+Character [SkeletalMesh] EXPORTED IN 0.24s
+//..\SourceAssets\Geometry\Character\SK_Character.fbx
+//..\SourceAssets\Geometry\Character\SK_Character_AdditionalTrack.json
+
