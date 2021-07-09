@@ -1,0 +1,530 @@
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/vintage_measuring_lab_2k.uasset" 0
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 1
+"../../../Engine/Content/EngineResources/AICON-Green_Low.uasset" 2
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/M_MasterShadelessMat.uasset" 3
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Lamps/T_lampsTex.uasset" 4
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Lamps/MI_lampsTex.uasset" 5
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Lamps/SM_lamp_02_.uasset" 6
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_Doors.uasset" 7
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_Doors.uasset" 8
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_DoorBack.uasset" 9
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_DoorFrame.uasset" 10
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_DoorWood.uasset" 11
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_FloorDecor.uasset" 12
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_FloorDecor.uasset" 13
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_FloorDecor.uasset" 14
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_Doors_M.uasset" 15
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_FloorPlanks03.uasset" 16
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 17
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/BU_TextureToMat.uasset" 18
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Str_DialogueText.uasset" 19
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Enum_Characters.uasset" 20
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Str_Dialogue.uasset" 21
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Str_Days.uasset" 22
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/SK_Character_Skeleton.uasset" 23
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 24
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 25
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/Anim_WakingUp.uasset" 26
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/Anim_Idle.uasset" 27
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/Anim_Walking.uasset" 28
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/Anim_Tiptoe.uasset" 29
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/BS_IdleWalk.uasset" 30
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/ABP_Character.uasset" 31
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/T_CharClothTex_Zombified.uasset" 32
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/T_CharacterTexture.uasset" 33
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/M_CharacterMaster.uasset" 34
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/MI_CharacterEyes.uasset" 35
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/MI_CharacterMouth.uasset" 36
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/MI_CharacterTexture.uasset" 37
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/SK_Character_PhysicsAsset.uasset" 38
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Character/Skeletal/SK_Character.uasset" 39
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Fonts/Early_GameBoy.uasset" 40
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Fonts/Early_GameBoy_Font.uasset" 41
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Panel.uasset" 42
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/C_TimeOfDay.uasset" 43
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_QKey2.uasset" 44
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_QKey1.uasset" 45
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_EKey_1.uasset" 46
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_EKey_0.uasset" 47
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_BButton.uasset" 48
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/T_AButton.uasset" 49
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/red-cross-md_0.uasset" 50
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/ButtonID.uasset" 51
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_IconImageInteract.uasset" 52
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_IconPop.uasset" 53
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/GI_GlobalVars.uasset" 54
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Interactable.uasset" 55
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueAIController.uasset" 56
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_InteractableDialogue.uasset" 57
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_TimeWidget.uasset" 58
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/ToolBox.uasset" 59
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_ObjectAcquired.uasset" 60
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_IconImageQuit.uasset" 61
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_Endings.uasset" 62
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_ChoiceBox.uasset" 63
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_Choice.uasset" 64
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Camera/T_Camera.uasset" 65
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Camera/MI_Camera.uasset" 66
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Camera/SM_Camera.uasset" 67
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Camera.uasset" 68
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_StartMenu.uasset" 69
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/BP_Room.uasset" 70
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueBlackboard.uasset" 71
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/BP_MainCharacter.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 73
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 76
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/TelevisionFrames.uasset" 77
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 78
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 79
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 83
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/TelevisionFrames_Zombified.uasset" 84
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/M_MasterShadelessFrameUI.uasset" 85
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/MUI_Screen.uasset" 86
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/WBP_DialoguePanel.uasset" 87
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/TaskParent.uasset" 88
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/HideDialogueWindowOnly.uasset" 89
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/SpendTimeParent.uasset" 90
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/SpendTimeAndClose.uasset" 91
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/Zombify.uasset" 92
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Fonts/04B_30__.uasset" 93
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Fonts/04B_30___Font.uasset" 94
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Geometry/Meshes/CubeMaterial.uasset" 95
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Geometry/Meshes/1M_Cube.uasset" 96
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Geometry/Meshes/1M_Cube_Chamfer.uasset" 97
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Geometry/Meshes/TemplateFloor.uasset" 98
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 99
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_End.uasset" 100
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 101
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 102
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 103
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_Male_N.uasset" 104
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_Male_Mask.uasset" 105
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 106
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 107
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 108
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 109
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 110
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 111
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 112
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 113
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 115
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 116
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/M_Male_Body.uasset" 117
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 118
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_Female_N.uasset" 119
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Textures/T_Female_Mask.uasset" 120
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Materials/MI_Female_Body.uasset" 121
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 122
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/RampMaterial.uasset" 123
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 124
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 125
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 126
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 127
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 128
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPersonBP/ThirdPersonOverview.uasset" 129
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 130
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Character/Mesh/SK_Mannequin.uasset" 131
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonWalk.uasset" 132
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonRun.uasset" 133
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonIdle.uasset" 134
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 135
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPerson_Jump.uasset" 136
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_Start.uasset" 137
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 138
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 139
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 140
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 141
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 142
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 144
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 145
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 146
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 147
+"../../../Engine/Content/BasicShapes/Cone.uasset" 148
+"../../../Engine/Content/BasicShapes/Cube.uasset" 149
+"../../../Engine/Content/BasicShapes/Plane.uasset" 150
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 151
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 152
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 153
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 154
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 155
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 156
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 162
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 163
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 164
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 168
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 169
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 170
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 171
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 172
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 173
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 174
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 175
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 176
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 177
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 178
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 179
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 180
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 181
+"../../../Engine/Content/EditorResources/S_Note.uasset" 182
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 183
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 184
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 185
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 186
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 187
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 188
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 199
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 204
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 205
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 206
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 207
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 217
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 221
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 222
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 223
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 224
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 225
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 226
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 228
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 230
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 231
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 232
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 236
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 240
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 241
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 242
+"../../../Engine/Content/EngineResources/Black.uasset" 243
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 244
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 245
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 246
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 247
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 248
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 249
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 250
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 251
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 252
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 254
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 255
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 256
+"../../../Engine/Content/EngineSounds/Master.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 258
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 259
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 260
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 261
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 262
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 280
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 281
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 282
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 283
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 285
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 286
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 288
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 289
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 291
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 294
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 295
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 296
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 297
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 298
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 299
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 301
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 302
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 303
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 305
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 306
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 309
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 310
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 311
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 312
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 313
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 314
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 315
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 316
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 317
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 323
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Blockout_BuiltData.uasset" 324
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Blockout.umap" 325
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/abandoned_games_room_02_2k.uasset" 326
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Lighting_BuiltData.uasset" 327
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Lighting.umap" 328
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Main_BuiltData.uasset" 329
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/GM_Bit.uasset" 330
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Main.umap" 331
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/AnsweringMachine/T_AnsMach.uasset" 332
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/AnsweringMachine/MI_AnsMach.uasset" 333
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/AnsweringMachine/SM_AnsMach.uasset" 334
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Carpet/T_Carpet.uasset" 335
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Carpet/MI_Carpet.uasset" 336
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Carpet/SM_Carpet.uasset" 337
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Guitar/T_Guitar_M.uasset" 338
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Guitar/T_Guitar.uasset" 339
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Guitar/MI_Guitar.uasset" 340
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Guitar/SM_Guitar.uasset" 341
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Guitar.uasset" 342
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cupboard/T_Cupborad.uasset" 343
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cupboard/MI_Cupborad.uasset" 344
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cupboard/SM_Cuborad_.uasset" 345
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Cupboard.uasset" 346
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/T_Books_Shelfs_clock.uasset" 347
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/MI_Books_Shelfs_clock.uasset" 348
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Books/SM_BookSet.uasset" 349
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Books.uasset" 350
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Bed/T_Bed.uasset" 351
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Bed/MI_Bed.uasset" 352
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Bed/SM_Bed.uasset" 353
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Bed.uasset" 354
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Window.uasset" 355
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/BoardWindows.uasset" 356
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/Choice.uasset" 357
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/Speak.uasset" 358
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/ShowDialogueWindow.uasset" 359
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/RegainControl.uasset" 360
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/CloseWindow.uasset" 361
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/WindowDialogue.uasset" 362
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/TelevisionDialogue.uasset" 363
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/GlobalVarsParent.uasset" 364
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/WaterPlants.uasset" 365
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/DrinkWater.uasset" 366
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/PlantDialogue.uasset" 367
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/PlayGuitar.uasset" 368
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/TimeChoice.uasset" 369
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/GuitarDialogue.uasset" 370
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/AcquireItem.uasset" 371
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/AcquireToolbox.uasset" 372
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/CupboardDialogue.uasset" 373
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Mechanic_BuiltData.uasset" 374
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WaterCan/T_WaterCan.uasset" 375
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WaterCan/MI_WaterCan.uasset" 376
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WaterCan/SM_WaterCan.uasset" 377
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_WaterCan.uasset" 378
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/T_Television.uasset" 379
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/MI_Television.uasset" 380
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/M_MasterShadelessFrame.uasset" 381
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/MI_Screen.uasset" 382
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Television/SM_Television.uasset" 383
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Television.uasset" 384
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Plant/T_Plant_M.uasset" 385
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Plant/T_Plant.uasset" 386
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Plant/MI_Plant.uasset" 387
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Plant/SM_Plant.uasset" 388
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Plant.uasset" 389
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_PlankPickup.uasset" 390
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/UI/Planks.uasset" 391
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_Wall.uasset" 392
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_Wall.uasset" 393
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Planks/SM_PlankGap.uasset" 394
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Planks.uasset" 395
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/StartGame.uasset" 396
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/FilmDiary.uasset" 397
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/CameraDialogue.uasset" 398
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/ReadBook.uasset" 399
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/BooksDialogue.uasset" 400
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/WakeUp.uasset" 401
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/SpendTime.uasset" 402
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/GetInBed.uasset" 403
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/FadeToBlack.uasset" 404
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/DisplayEnding.uasset" 405
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/DayChange.uasset" 406
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/BedDialogue.uasset" 407
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Clock/SM_Clock.uasset" 408
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Clock/SM_Clock_HourHand.uasset" 409
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/BP_Clock.uasset" 410
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_FloorPlanks.uasset" 411
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_FloorPlanks.uasset" 412
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Planks/SM_Plank01.uasset" 413
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/NightStand/T_NightStand.uasset" 414
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/NightStand/MI_NightStand.uasset" 415
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/NightStand/SM_NightStand.uasset" 416
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_Mechanic.umap" 417
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Books/SM_Book_01_.uasset" 418
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Books/SM_Book_02_.uasset" 419
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Books/SM_Book_03_.uasset" 420
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Books/SM_Book_04_.uasset" 421
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cables/T_Cables.uasset" 422
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cables/MI_Cables.uasset" 423
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Cables/SM_Cables.uasset" 424
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CardboardBox/T_Box.uasset" 425
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CardboardBox/MI_Box.uasset" 426
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CardboardBox/SM_Box.uasset" 427
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CardboardBox/SM_BoxCov01.uasset" 428
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CardboardBox/SM_BoxCov02.uasset" 429
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CeilingLamp/T_CeiLamp.uasset" 430
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CeilingLamp/T_CeiLamp_M.uasset" 431
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CeilingLamp/MI_CeiLamp.uasset" 432
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CeilingLamp/SM_CeiLamp.uasset" 433
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Chair/T_Seat.uasset" 434
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Chair/T_Seat_M.uasset" 435
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Chair/MI_Chair.uasset" 436
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Chair/SM_Seat.uasset" 437
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Desk/T_Desk.uasset" 438
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Desk/MI_Desk.uasset" 439
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Desk/SM_Desk.uasset" 440
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CoffeeTable/T_CofTable.uasset" 441
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CoffeeTable/MI_CofTable.uasset" 442
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/CoffeeTable/SM_CofTable.uasset" 443
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/T_Comp.uasset" 444
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/MI_Computer.uasset" 445
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/SM_CompSpeak.uasset" 446
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/SM_Keyboard.uasset" 447
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/SM_Mouse.uasset" 448
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Couch/T_Couch.uasset" 449
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Couch/MI_Couch.uasset" 450
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Couch/SM_Couch.uasset" 451
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Computer/SM_Comp.uasset" 452
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Interactables/BP_Computer.uasset" 453
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/Tasks/WriteBook.uasset" 454
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Blueprints/Dialogue/DialogueTree/ComputerDialogue.uasset" 455
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_SetDressing_BuiltData.uasset" 456
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/T_mug_pen_note_bottle.uasset" 457
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/MI_mug_pen_note_bottle.uasset" 458
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/SM_Waterbottle.uasset" 459
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/SM_Pen.uasset" 460
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/SM_NotePad.uasset" 461
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/ZuccProps/SM_Mug.uasset" 462
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WelcomeMat/T_WelMat.uasset" 463
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WelcomeMat/MI_WelMat.uasset" 464
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WelcomeMat/SM_WelMat.uasset" 465
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/T_WallDecor.uasset" 466
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/MI_WallDecor.uasset" 467
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecVent.uasset" 468
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecSwitch.uasset" 469
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecPostMed.uasset" 470
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecPostbig.uasset" 471
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecPaint02.uasset" 472
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecPaint01.uasset" 473
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecMap.uasset" 474
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecCal.uasset" 475
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/WallDecor/SM_WDecAward.uasset" 476
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/TypeWriter/T_TypeWriter.uasset" 477
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/TypeWriter/MI_TypeWriter.uasset" 478
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/TypeWriter/SM_Typewriter.uasset" 479
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/SpaceShipToy/T_Shuttle.uasset" 480
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/SpaceShipToy/MI_Shuttle.uasset" 481
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/SpaceShipToy/SM_Shuttle.uasset" 482
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/SpaceShipToy/SM_ShutString.uasset" 483
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Shoes/T_Shoe.uasset" 484
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Shoes/MI_Shoe.uasset" 485
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Shoes/SM_Shoe.uasset" 486
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Shelf/SM_WallShelf_01_.uasset" 487
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Shelf/SM_Shelf.uasset" 488
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_Win.uasset" 489
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_Win.uasset" 490
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_WallWin.uasset" 491
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_Wall.uasset" 492
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_FloorPlanks.uasset" 493
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_DoorMain.uasset" 494
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/T_Ceiling.uasset" 495
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/MI_Ceiling.uasset" 496
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_CeilingDiag.uasset" 497
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Room_MKit/SM_Ceiling.uasset" 498
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Planks/T_FloorPlanks03.uasset" 499
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Planks/MI_FloorPlanks03.uasset" 500
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Planks/SM_Plank02.uasset" 501
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PhotoFrame/T_photoframe.uasset" 502
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PhotoFrame/MI_photoframe.uasset" 503
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PhotoFrame/SM_PhotoFrame_01_.uasset" 504
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/T_PaperStuff_M.uasset" 505
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/T_PaperStuff.uasset" 506
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/MI_PaperStuff.uasset" 507
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_TrashCan.uasset" 508
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_StiKNoteYel.uasset" 509
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_StiKNotePink.uasset" 510
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_StikNoteGrn.uasset" 511
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_SheetPile.uasset" 512
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_SheetFold.uasset" 513
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_SheetCrun.uasset" 514
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_Sheet.uasset" 515
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/PaperStuff/SM_CorkBoard.uasset" 516
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Lamps/SM_lamp_01_.uasset" 517
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/T_IronBoard.uasset" 518
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/MI_IronBoard.uasset" 519
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/SM_IronBoard.uasset" 520
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/T_Iron.uasset" 521
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/MI_Iron.uasset" 522
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/IronStuff/SM_Iron.uasset" 523
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Assets/Guitar/SM_GStand.uasset" 524
+"F:/Git Depot/Bit/UnrealProject/Content/Project/Levels/L_SetDressing.umap" 525
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 526
+"F:/Git Depot/Bit/UnrealProject/Content/StarterContent/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 527
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 528
+"../../../Engine/Content/Maps/Entry.umap" 529
